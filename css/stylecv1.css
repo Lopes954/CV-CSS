@@ -1,0 +1,323 @@
+body{
+    background-color: rgba(4, 49, 70, 0.959);
+    color: white;
+    margin: 0;
+}
+#wrapper{
+    width: 99.6%;
+    margin: 0 5px;
+}
+.myheader{
+    width: 100%;
+    height: 100px;
+    
+    
+
+}
+.left1{
+    width: 33%;
+    float: left;
+    height: 80px;
+    background-color: black;
+    margin-top: 30px;
+    border: 2px solid white;
+    
+    
+
+}
+.name{
+    font-size: 2em;
+    font-weight:bold ;
+    color: white;
+    text-align: center;
+}
+.profession{
+    font-size: 1em;
+    font-weight:bold ;
+    color: white;
+    text-align: center;
+}
+.center{
+    width: 33%;
+    float: left;
+    
+
+}
+.photo{
+    text-align: center;
+
+}
+.kimage{
+    width: 40%;
+    height: 35%;
+    border-radius: 50% ;
+    border: 6px solid white;
+    
+}
+.right{
+  
+    width: 33%;
+    float: right;
+    margin-top: 30px;
+    height: 80px;
+    background-color: black;
+    margin-right: 10px;
+    border: 2px solid white;
+}
+
+
+.numero{
+    font-size: 1em;
+    font-weight:bold ;
+    color: black;
+    text-align: center;
+    color: white;
+}
+.permis{
+    font-size: 1em;
+    font-weight:bold ;
+    color: black;
+    text-align: center;
+    color: white;
+}
+.date{
+    font-size: 1em;
+    font-weight:bold ;
+    color: black;
+    text-align: center;
+    color: white;
+}
+.adresse{
+    font-size: 1em;
+    font-weight:bold ;
+    color: black;
+    text-align: center;
+    color: white;
+}
+.mymain{
+    width: 100%;
+    margin-bottom: 10%;
+}
+.haut{
+    width: 100%;
+    
+    
+    
+
+}
+.hautg{
+    width: 33%;
+    border: 2px solid black;
+    background:black;
+    float: left;
+    font-size: 20px;
+    text-align: center;
+    margin-right: 33%;
+    
+}
+
+    
+    
+    
+   
+
+
+.experience{
+    border: 6px solid navy;
+    margin: -30px 50px 20px 50px;
+    font-size: 30px;
+    
+    background: black;
+
+
+}
+.experience1{
+    border: 2px solid black;
+    margin-bottom: 30px;
+
+}
+.experience2{
+    border: 2px solid black;
+    margin-bottom: 30px;
+
+}
+.experience3{
+    border: 2px solid black;
+    margin-bottom: 30px;
+
+}
+.hautd{
+    width: 33%;
+    background: black;
+    float: left;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+    
+    
+}
+
+.competence{
+    border: 6px solid navy;
+    font-size: 30px;
+    margin: -30px 50px 20px 50px;
+    background: black;
+    
+    
+    
+
+
+}
+.competence1{
+    border: 2px solid black;
+    margin-bottom: 30px;
+
+
+
+}
+.competence2{
+    border: 2px solid black;
+    margin-bottom: 30px;
+
+}
+.competence3{
+    border: 2px solid black;
+    margin-bottom: 30px;
+
+}
+.bas{
+    width: 100%;
+}
+.basg{
+    width: 33%;
+    border: 2px solid black;
+    background:black;
+    float: left;
+    font-size: 20px;
+    text-align: center;
+    margin-right: 33%;
+
+}
+.formation{
+    border: 6px solid navy;
+    margin: -30px 50px 20px 50px;
+    font-size: 30px;
+    background: black;
+    
+}
+
+.formation1{
+    border: 2px solid black;
+    margin-bottom: 30px;
+
+}
+.formation2{
+    border: 2px solid black;
+    margin-bottom: 30px;
+
+}
+
+.formation3{
+    border: 2px solid black;
+    margin-bottom: 30px;
+
+}
+
+.formation4{
+    border: 2px solid black;
+    margin-bottom: 30px;
+
+}
+
+.formation5{
+    border: 2px solid black;
+    margin-bottom: 30px;
+
+}
+
+.formation6{
+    border: 2px solid black;
+    margin-bottom: 30px;
+
+}
+.footerd{
+    text-align: center;
+    
+    
+
+}
+.addme{
+    float: inline-start;
+    margin-top: 70px;
+ 
+    
+    
+}
+.add{
+    width: 200px;
+       
+       border-radius: 50%;
+       margin-top: 60px;
+       width: 170px;
+       background: navy;
+       
+     
+    
+    
+}
+.reseau{
+    float: left;
+    border: solid 2px black;
+    background-color: black;
+    margin-top: -105px;
+    width: 33%;
+    height: 200px;
+    border-radius: 50%;
+    
+    
+    
+}
+   
+.linkedin{
+    width: 50px;
+    height: 50px;
+    margin-top: 100px;
+    border-radius: 20%;
+    margin-right: 40px;
+   
+    
+    
+}
+.facebook{
+    width: 50px;
+    height: 50px;
+    border-radius: 20%;
+    margin-right: 40px;
+   
+    
+    
+}
+
+.instagram{
+    width: 50px;
+    height: 50px;
+    border-radius: 20%;
+    margin-right: 40px;
+ 
+    
+}
+.mail{
+    width: 50px;
+    height: 50px;
+    
+    
+    
+}
+
+
+
+    
+    
+
+
+
